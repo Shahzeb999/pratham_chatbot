@@ -1,0 +1,8 @@
+
+flask
+beautifulsoup4
+pandas
+requests
+openai
+langchain
+google-api-core
